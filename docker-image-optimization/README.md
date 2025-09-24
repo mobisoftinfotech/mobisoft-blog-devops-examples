@@ -2,9 +2,7 @@
 
 ## How to Build & Run
 
-1. Clone the repository:
-
-    git clone git@github.com:mobisoftinfotech/mobisoft-blog-devops-examples.git
+1. Go to Directory:
     
     cd docker-image-optimization/demo-nodejs-app
 
@@ -26,9 +24,7 @@
 
 ## How to Build & Run
 
-1. Clone the repository:
-
-    git clone git@github.com:mobisoftinfotech/mobisoft-blog-devops-examples.git
+1. Go to Directory:
     
     cd docker-image-optimization/demo-django-app
 
@@ -50,9 +46,7 @@
 
 ## How to Build & Run
 
-1. Clone the repository:
-
-    git clone git@github.com:mobisoftinfotech/mobisoft-blog-devops-examples.git
+1. Go to Directory:
     
     cd docker-image-optimization/demo-springboot-app
 
