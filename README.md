@@ -8,6 +8,7 @@ Git repo for examples for devops blogs for mobisoftinfotech.com
 1. Clone the repository:
 
     git clone git@github.com:mobisoftinfotech/mobisoft-blog-devops-examples.git
+    
     cd docker-image-optimization/demo-nodejs-app
 
 
@@ -31,6 +32,7 @@ Git repo for examples for devops blogs for mobisoftinfotech.com
 1. Clone the repository:
 
     git clone git@github.com:mobisoftinfotech/mobisoft-blog-devops-examples.git
+    
     cd docker-image-optimization/demo-django-app
 
 
@@ -54,6 +56,7 @@ Git repo for examples for devops blogs for mobisoftinfotech.com
 1. Clone the repository:
 
     git clone git@github.com:mobisoftinfotech/mobisoft-blog-devops-examples.git
+    
     cd docker-image-optimization/demo-springboot-app
 
 
